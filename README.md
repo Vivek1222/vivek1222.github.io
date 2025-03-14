@@ -3,7 +3,7 @@
 
 ### Technical Skills
 
-Python|AI\ML|Gen_AI|LLMs|AWS EC2|SQL|Github
+Python |AI\ML |Gen_AI |LLMs |AWS EC2 |SQL |Github
 
 ### Education 
 Bachelor of Technology  in Mechanical Engineering.                                                                                             08/2019-07/2023
