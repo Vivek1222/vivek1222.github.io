@@ -1,5 +1,6 @@
 title: Vivek Sharma
-logo: ![Project Logo](https://your-image-url.com/vivek.jpg)
+logo: "https://your-image-url.com/vivek.jpg"
 description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
